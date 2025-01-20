@@ -1,5 +1,3 @@
-Header.js  => to display the title Streamlist
-
 import React from 'react';
 
 const Header = () => {
