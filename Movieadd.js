@@ -16,3 +16,5 @@ const Products = ({ addToCart }) => {
     </div>
   );
 };
+
+export default Products;
